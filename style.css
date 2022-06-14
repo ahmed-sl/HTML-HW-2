@@ -1,0 +1,16 @@
+.editbody{
+    margin: 90px;
+}
+
+.breadcrumb{
+    text-align: center;
+    background-color: lightgray;
+}
+.card{
+   margin: 25px;
+   
+}
+.card>img{
+    height: 700px;
+    width: 400px;
+}
